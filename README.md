@@ -1,7 +1,7 @@
 # DeepSeek-from-Scratch (Educational Implementation)
 
 ## Overview
-This repository contains a **from-scratch implementation of a Large Language Model (LLM)** inspired by the [DeepSeek architecture series on YouTube](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms).  
+This repository contains a **from-scratch implementation of a Large Language Model (LLM)** 
 It is built entirely in **PyTorch**, with a focus on clarity, modularity, and extensibility for rapid experimentation with novel LLM architectures.
 
 The model incorporates modern Transformer advancements, including:
